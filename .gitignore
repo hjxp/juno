@@ -52,6 +52,7 @@ logs
 
 # ignore front resources
 assets/dist/*
+assets/yarn.lock
 dist/
 
 *.tar.gz
